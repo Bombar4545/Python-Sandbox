@@ -1,0 +1,23 @@
+
+                        B SET DEMO
+
+B Set: Set of possible non-emply sequences that can be arranged 
+with n different elements and each subsequence of any element in 
+set, minimum length of 2, contained in the sequence at max once.
+
+B Set Max: Maximum length of a sequence that can be in the B Set 
+of n.
+
+B Set Length: Number of elements in the B set of n.
+
+
+              Table 1. Values of BSM and BSL.
+-----------------------------------------------------------------
+| n     | BSM(n)        | BSL(n)                                |
+-----------------------------------------------------------------
+| 0 	| 0   		| 0 					                    |
+| 1 	| 2   		| 2 					                    |
+| 2 	| 5   		| 24 					                    |
+| 3 	| 10   		| 1884 					                    |
+-----------------------------------------------------------------
+
